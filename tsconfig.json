@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es5",
+        "moduleResolution": "node",
+        "sourceMap": false,
+        "declaration": false,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitAny":true,
+        "isolatedModules": true
+    },
+    "files": [
+        "./ts/definitions.d.ts",
+        "./ts/app.ts"
+    ]
+}

@@ -1,0 +1,11 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    background-color: aliceblue;
+    #canvas {
+        margin: 0 auto;
+        display: block;
+        border: 5px solid black;
+        background: white;
+    }
+}
